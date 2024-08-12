@@ -1,4 +1,3 @@
-```markdown
 # Entra ID SSO
 
 **Entra ID SSO** is a WordPress plugin that enables Single Sign-On (SSO) using OAuth with Entra ID. It allows users to sign in to your WordPress site using their Entra ID credentials.
@@ -83,7 +82,7 @@ Special thanks to the contributors and the open-source community for their suppo
 
 For support or inquiries, please contact [Your Name] at [your.email@example.com].
 
-```
+
 
 Feel free to customize the `README.md` file as needed to fit your specific requirements.# entra-id-sso
 # entra-id-sso
