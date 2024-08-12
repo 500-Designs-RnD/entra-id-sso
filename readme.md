@@ -62,27 +62,6 @@ Here's an example of how to configure the group-to-role mappings in the settings
 - Verify that the Client ID, Client Secret, Tenant ID, and Scope are correctly entered in the plugin settings.
 - Check the JSON format for group-to-role mappings to ensure it is correctly structured.
 
-## Contributing
-
-1. Fork the repository.
-2. Create a new branch for your feature or bugfix.
-3. Commit your changes.
-4. Push to the branch.
-5. Create a new Pull Request.
-
-## License
-
-This plugin is licensed under the MIT License. See the `LICENSE` file for more details.
-
-## Acknowledgements
-
-Special thanks to the contributors and the open-source community for their support and contributions.
-
-## Contact
-
-For support or inquiries, please contact [Your Name] at [your.email@example.com].
 
 
 
-Feel free to customize the `README.md` file as needed to fit your specific requirements.# entra-id-sso
-# entra-id-sso
