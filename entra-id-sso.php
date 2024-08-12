@@ -1,7 +1,7 @@
 <?php  
 /*  
-Plugin Name: Intra ID SSO  
-Description: Enables OAuth-based SSO via Intra ID  
+Plugin Name: Entra ID SSO  
+Description: Enables OAuth-based SSO via Entra ID  
 Version: 1.0  
 Author: 500Designs (Aurora)
 */  
