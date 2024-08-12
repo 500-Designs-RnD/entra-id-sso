@@ -3,7 +3,7 @@
 Plugin Name: Entra ID SSO  
 Description: Enables OAuth-based SSO via Entra ID  
 Version: 1.0  
-Author: 500Designs (Aurora)
+Author: 500Designs RND
 */  
 
 // Prevent direct access to the file  
